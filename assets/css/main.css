@@ -2391,7 +2391,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				width: 20%;
+				width: 0px;
 			}
 
 			#logo .image {
